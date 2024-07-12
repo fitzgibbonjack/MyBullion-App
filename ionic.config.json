@@ -1,0 +1,7 @@
+{
+  "name": "MyBullion-App",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
