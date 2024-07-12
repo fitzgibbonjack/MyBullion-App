@@ -1,5 +1,7 @@
 # My Bullion - Ionic App (iOS & Android)
 
+## Overview
+
 A mobile application available for both iOS and Android platforms. It interfaces with the Laravel back end to provide users with a seamless experience in managing their gold and silver investments. Users can securely sign up, log in, add and manage their precious metal holdings, view real-time spot prices, and track the historical performance of their portfolio.
 
 -   Developer: Jack Fitzgibbon (@fitzgibbonjack)
